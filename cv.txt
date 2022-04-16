@@ -1,0 +1,45 @@
+Madhav Sharma
+23a Saxon Street,LE3 0BL,Leicester,United kingdom,
+Mobile: 07388802754
+E-mail: smadhav527@gmail.com
+
+Career Objective:
+“To pursue a career in a progressive organization that gives a scope to enhance my knowledge in the field of information technologies and utilizing my skills towards the growth of the organization.”
+
+Education:
+
+2020 –  2022      	MSc in Cloud Computing,
+                                    University of Leicester, Leicester,UK
+Modules pursuing: Advanced Web Technologies, Software  Measurement and Quality Assurance, Internet and Cloud Computing, Financial Services Information Systems.
+
+2014 – 2018         	 B.E. in Computer Science and Engineering,
+                                     Chitkara University , Himachal Pradesh,India
+
+Projects:
+         Android Development (College Buddy Application)
+•	Developed an application which is primarily based to provide an interface between student and professor in which a student can have access to all the learning materials of all the subjects a student is enrolled in. An interface for students to submit their assignments, quizzes. The student and professor can connect with fellow students and supervisors. A lot other features such as assignment submission has been also implemented.
+•	Used Aiohttp (Async)  framework for Backend Application Framework ,Rest APIs for Android Application.
+•	Python for Backend Framework Development ,Java for Android Development and Postgres for Database design
+
+        TO DO LIST(EJS WEB APPLICATION)
+•	Build an application with the help of html mark up with plain javascript using embedded javascript templates.
+•	A user can add to do list for a particular day with updated day and date.
+•	App has two different routes for adding lists in every single one.
+•	Technologies used-HTML,CSS,JAVASCRIPT,EJS,NODE.JS
+
+
+
+IT Skills
+Technical Skills
+MySql, html, Css, Bootstrap, Javascript, node.js, Java .
+Development Environment
+Pycharm, Android Studio , Amazon web services, Postgres  Database,Visual studio ,Microsoft Excel
+Operating Systems
+Windows, Linux
+Soft Skills
+ Team Oriented, Innovative and Visionary,Positive Attitude and Hardworking.
+Work Experience
+20 JAN 2022 – 28 FEB 2022 :   IT SUPPORT (RAJ ACCOMODATION, LE3
+0BL,LEICESTER,UK )
+
+Providing high level of customer service and high-level problem solving. Perform break‐fixes  and work maintenance windows as well monitor alerts and logs to ensure maximum uptime ,Performs administration tasks, such as new joiner/ leaver process, user management, documentation,      communication messages to users, Perform diagnostics and troubleshooting of multiple issues.
